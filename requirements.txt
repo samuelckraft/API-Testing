@@ -28,3 +28,5 @@ SQLAlchemy==2.0.31
 typing_extensions==4.12.2
 Werkzeug==3.0.3
 wrapt==1.16.0
+flask-swagger==0.2.14
+flask-swagger-ui==4.11.1
